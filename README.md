@@ -49,9 +49,10 @@ This mobile application is a book library built using React and Tailwind CSS. Th
 
 ### Mobile Preview
 
-<img width="467" alt="Screenshot 2024-02-14 at 2 01 44 PM" src="https://github.com/prtkjha01/scalex-media-assignment/assets/68733176/88dafd19-e2e0-48fd-aa9f-dab75fc586c2">
+![Screenshot_2024-02-14_at_2 01 44_PM-removebg-preview](https://github.com/prtkjha01/scalex-media-assignment/assets/68733176/64383a7e-1391-419a-83a4-c8154f6221ba)
 
-<img width="467" alt="Screenshot 2024-02-14 at 2 02 38 PM" src="https://github.com/prtkjha01/scalex-media-assignment/assets/68733176/389cb4f5-f6bf-4f6f-a4f9-b4cc37824f63">
+![Screenshot_2024-02-14_at_2 02 38_PM-removebg-preview](https://github.com/prtkjha01/scalex-media-assignment/assets/68733176/c9878a9e-9527-4e15-b268-6fbf252e92d7)
+
 
 ### Desktop Preview
 
