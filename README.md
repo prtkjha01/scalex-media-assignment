@@ -1,4 +1,4 @@
-# Book Library Mobile App
+# Book Library App
 
 This mobile application is a book library built using React and Tailwind CSS. The application allows users to search for books, view a list of books with details, and toggle the read/unread status of each book.
 
@@ -44,3 +44,24 @@ This mobile application is a book library built using React and Tailwind CSS. Th
 - React JS
 - Tailwind CSS
 - Typescript
+
+## Preview
+
+### Mobile Preview
+
+<img width="467" alt="Screenshot 2024-02-14 at 2 01 44 PM" src="https://github.com/prtkjha01/scalex-media-assignment/assets/68733176/88dafd19-e2e0-48fd-aa9f-dab75fc586c2">
+
+<img width="467" alt="Screenshot 2024-02-14 at 2 02 38 PM" src="https://github.com/prtkjha01/scalex-media-assignment/assets/68733176/389cb4f5-f6bf-4f6f-a4f9-b4cc37824f63">
+
+### Desktop Preview
+
+<img width="1710" alt="Screenshot 2024-02-14 at 2 03 39 PM" src="https://github.com/prtkjha01/scalex-media-assignment/assets/68733176/24cc3773-6287-4aba-a573-54aa80efa807">
+
+<img width="1710" alt="Screenshot 2024-02-14 at 2 04 16 PM" src="https://github.com/prtkjha01/scalex-media-assignment/assets/68733176/262b1878-705e-4549-bd40-5865ed9fbf9f">
+
+
+
+
+
+
+
